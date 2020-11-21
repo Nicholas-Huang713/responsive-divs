@@ -1,0 +1,10 @@
+.head {
+    width: 100%;
+    /* text-align: center; */
+
+}
+
+.content {
+    width: 100vw;
+    background-color: blue;
+}
